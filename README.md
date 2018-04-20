@@ -1,6 +1,4 @@
-# thp-j14
-# thp-j14
-Proposer par Yvan wetomde
+#Proposer par Robert Bright et Yvan Wetomde (Convalescent)
 # C'est quoi tic tac toe ?
 Le tic-tac-toe, aussi appelé « morpion » est un jeu de réflexion se pratiquant à deux joueurs au tour par tour dont le but est de créer le premier un alignement.
 
